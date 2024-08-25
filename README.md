@@ -1,9 +1,4 @@
 # Automated CI/CD Pipeline with GitHub and Jenkins Integration
-
-## Project Overview
-
-This project demonstrates the creation of a full stack to-do list application using Flask, with an automated CI/CD pipeline integrated with GitHub and Jenkins. The application is containerized using Docker and deployed on AWS EC2 instances. The pipeline ensures seamless updates to the production environment with each code commit.
-
 ## Features
 
 - Full stack to-do list application built with Flask.
