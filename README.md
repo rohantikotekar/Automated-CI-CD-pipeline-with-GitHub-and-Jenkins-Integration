@@ -29,8 +29,8 @@
 
 ## Clone the Repository**
  
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone repo-name
+   cd repo-name
 
 ##  Ensure Docker is installed and running.
 Build the Docker image using the provided Dockerfile.
