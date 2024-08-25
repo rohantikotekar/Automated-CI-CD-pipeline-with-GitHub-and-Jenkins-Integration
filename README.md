@@ -36,7 +36,6 @@ This project demonstrates the creation of a full stack to-do list application us
  
    git clone <repository-url>
    cd <repository-directory>
-Create Docker Image
 
 ##  Ensure Docker is installed and running.
 Build the Docker image using the provided Dockerfile.
