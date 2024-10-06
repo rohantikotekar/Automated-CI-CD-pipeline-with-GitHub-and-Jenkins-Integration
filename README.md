@@ -17,20 +17,13 @@
 5. **GitHub**: Repository for version control and CI/CD integration.
 
 ## Setup and Configuration
-
-### Prerequisites
-
 - Docker
 - Jenkins
 - AWS CLI
 - GitHub account with web tokens
 
-### Project Setup
-
-## Clone the Repository**
- 
-   git clone repo-name
-   cd repo-name
+## Clone the Repository
+   git clone https://github.com/rohantikotekar/Automated-CI-CD-pipeline-with-GitHub-and-Jenkins-Integration.git
 
 ##  Ensure Docker is installed and running.
 Build the Docker image using the provided Dockerfile.
@@ -46,7 +39,6 @@ Deploy to AWS EC2
 ## Create and configure EC2 instances for dev, test, and prod environments.
 Deploy the Docker container to each EC2 instance.
 Ensure security groups and access controls are configured correctly.
-
 
 ## Jenkins automatically builds the Docker image with each code commit to GitHub.
 Automated Deployment
