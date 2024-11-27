@@ -18,7 +18,7 @@
 
 ## Clone the Repository
 
-# git clone https://github.com/rohantikotekar/Automated-CI-CD-pipeline-with-GitHub-and-Jenkins-Integration.git
+### git clone https://github.com/rohantikotekar/Automated-CI-CD-pipeline-with-GitHub-and-Jenkins-Integration.git
 Build the Docker image using the provided Dockerfile.
 docker build -t <image-name> .
 Install and set up Jenkins.
