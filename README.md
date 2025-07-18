@@ -6,6 +6,7 @@
 - Containerized with Docker.
 - Automated deployment using Jenkins CI/CD pipeline.
 - Multiple AWS EC2 instances for different environments (dev, test, prod).
+- Test Case Automation.
 - GitHub integration with secure personal access tokens.
 - Automated Docker image builds and deployments triggered on code commits.
 
