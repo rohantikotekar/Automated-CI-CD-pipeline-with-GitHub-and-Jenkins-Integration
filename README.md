@@ -19,7 +19,7 @@
 
 ## Code Set-up
 
-1. `git clone https://github.com/rohantikotekar/Automated-CI-CD-pipeline-with-GitHub-and-Jenkins-Integration.git`
+1. Use a Django full stack web application to deploy.
 2. Build the Docker image using the provided Dockerfile.
 3. `docker build -t <image-name> .`
 4. Install and configure Jenkins on an AWS EC2 instance.
